@@ -1,3 +1,5 @@
+# Gene-disease network analysis
+
 This study investigates the structure of the human gene–disease
 network to reveal patterns of gene interactions and disease associations. We applied community detection to identify both large
 hubs and small gene modules and performed enrichment analyses
